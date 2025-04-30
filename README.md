@@ -52,8 +52,11 @@ This project implements an image classification model to categorize garbage imag
 5. Run all cells to train and export the model.
 
 📦 Exported Files
-    saved_model/ – TensorFlow SavedModel format
-    tflite/model.tflite – TFLite model
-    tflite/label.txt – Class labels for TFLite
-    tfjs_model/ – TensorFlow.js model directory
+saved_model/ – TensorFlow SavedModel format
+    
+tflite/model.tflite – TFLite model
+
+tflite/label.txt – Class labels for TFLite
+
+tfjs_model/ – TensorFlow.js model directory
 
